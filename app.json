@@ -1,5 +1,5 @@
 {
-    "name": "𝐈𝛕ᷟ‌𝚣⃪ꙴ ⋆‌⃝ᴅᴀʀᴋ𓃭 ⃟ǫᴜᴇᴇɴ⛦⃕‌༆",   
+    "name": "🇵𝗔𝗥𝗜❥ •● 🇸𝗢𝗡𝗜 ❈",   
     "logo": "https://te.legra.ph/file/063bfeff0efdbd87fb103.jpg", 
     "keywords": [
     "python3",
@@ -25,7 +25,7 @@
             "required": true
         },
         "OWNER_USERNAME": {
-            "description": "Owner Username without @",
+            "description": "Owner Username without @II_ASHISH_GUPTA_IIl",
             "required": true
         },
         "BOT_NAME": {
@@ -33,7 +33,7 @@
             "required": true
         },
         "UPDATE_CHNL": {
-            "description": "Your Updates Channel without @",
+            "description": "Your Updates Channel without @Zidd_Bot",
             "required": true
         },
         "SUPPORT_GRP": {
